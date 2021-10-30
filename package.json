@@ -1,5 +1,5 @@
 {
-  "name": "@newkind/gpu",
+  "name": "@newkind/audio",
   "version": "0.1.0",
   "description": "peer to peer connect",
   "source": "./frontend/src/index.mjs",
